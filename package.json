@@ -1,21 +1,21 @@
 {
-  "name": "Projekt-team.JS",
+  "name": "goit-js-book-app",
   "version": "1.1.0",
   "description": "",
-  "homepage": "https://vivikun.github.io/Projekt-team.JS/",
+  "homepage": "https://github.com/AgnieszkaCieslak/goit-js-book-app/",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /Projekt-team.JS/"
+    "build": "parcel build src/*.html --public-url /goit-js-book-app/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vivikun/Projekt-team.JS"
+    "url": "git+https://github.com/AgnieszkaCieslak/goit-js-book-app"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vivikun/parcel-project-template-pl-main/issues"
+    "url": "https://github.com/AgnieszkaCieslak/goit-js-book-app/issues"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.10.0",
